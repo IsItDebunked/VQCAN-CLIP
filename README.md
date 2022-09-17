@@ -1,7 +1,7 @@
 # IsItDebunked VQCAN+CLIP
 
 Usage
-Run stable_diffusion.ipynb. Open In Colab
+Run IsItDebunkedVQGAN+CLIP.ipynb. https://colab.research.google.com/drive/16h2iSJcno2cU_Zq1qSCYXoSq0sG2j_z6#scrollTo=ZdlpRFL8UAlW
 
 VQCAN+CLIP AI ART GENERATOR
 The goal of this repository is to provide a Colab notebook to run the text-to-image "VQCAN+CLIP" model [1].
