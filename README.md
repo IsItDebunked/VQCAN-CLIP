@@ -1,4 +1,8 @@
 # IsItDebunked VQCAN+CLIP
+
+Usage
+Run stable_diffusion.ipynb. Open In Colab
+
 VQCAN+CLIP AI ART GENERATOR
 The goal of this repository is to provide a Colab notebook to run the text-to-image "VQCAN+CLIP" model [1].
 
